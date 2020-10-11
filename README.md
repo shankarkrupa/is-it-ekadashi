@@ -7,6 +7,7 @@ A simple PWA that tells visitors of the site it is ekadashi today.
 :white_check_mark: outputs if today is ekadashi
 :white_check_mark: add logo
 :white_check_mark: deploy
+:black_square_button: add number of days to next ekadashi
 :black_square_button: add ekadashi days for 2021
 
 ## Run
