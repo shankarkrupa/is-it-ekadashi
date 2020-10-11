@@ -28,9 +28,9 @@
     },
     {
       "src": "images/maskable-icon.png",
-      "sizes": "500x500",
+      "sizes": "625x625",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     }
   ],
   "lang": "en-US",
